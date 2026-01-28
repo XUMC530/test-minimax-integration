@@ -1,0 +1,26 @@
+{
+  "name": "test-minimax-integration",
+  "version": "1.0.0",
+  "description": "A test project for GitHub integration workflows",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/main.js",
+    "lint": "eslint src/"
+  },
+  "keywords": [
+    "test",
+    "integration",
+    "github",
+    "minimax"
+  ],
+  "author": "XUMC530",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "eslint": "^8.56.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
